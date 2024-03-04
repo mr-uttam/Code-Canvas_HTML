@@ -1,0 +1,62 @@
+<!-- P25-EventRegistrationForm.html -->
+<!-- HTML document with a form for event registration. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p><h2>EVENT REGISTRATION</h2></p>
+    <form>
+        <label for="name1">NAME:</label>
+        <input type="text" name="name1" id="name1">
+        <br/>
+        <br/>
+        <label for="email1">EMAIL ID:</label>
+        <input type="text" name="email1" id="email1">
+        <br/>
+        <br/>
+        <label for="call1">PHONE NO:</label>
+        <input type="tel" name="call1" id="call1">
+        <br/>
+        <br/>
+        <div>
+            <label for="occupation1">Occupation:</label>
+            <select name="occupation" id="occupation1">
+                <option value="Farmer">Farmer</option>
+                <option value="Student">Student</option>
+                <option value="Housewife">Housewife</option>
+            </select>
+        </div>
+        <br/>
+        <br/>
+        <fieldset>
+            <legend>Topics of interest:</legend>
+            <br/>
+            <br/>
+            <label for="checkbox1">HTML</label>
+            <input type="checkbox" id="checkbox1" name="checkbox1">
+            <br/>
+            <br/>
+            <label for="checkbox2">CSS</label>
+            <input type="checkbox" id="checkbox2" name="checkbox2">
+            <br/>
+            <br/>
+            <label for="checkbox3">JavaScript</label>
+            <input type="checkbox" id="checkbox3" name="checkbox3">
+        </fieldset>
+        <br/>
+        <br/>
+        <label for="textarea1">Comments:</label>
+        <br/>
+        <br/>
+        <textarea name="textarea1" id="textarea1" cols="35" rows="6"></textarea>
+        <br/>
+        <br/>
+        <input type="submit" value="Register">
+    </form>
+</body>
+</html>
