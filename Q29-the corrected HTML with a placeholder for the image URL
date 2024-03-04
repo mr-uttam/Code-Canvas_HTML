@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h2>DEAR UTTAM</h2>
+        <p>Contact: <a href="vcvc.com">mr.uttam9832@gmail.com</a></p>
+        <p>LinkedIn: <a href="vcvc.com">linkedin.com/uttampal.linkdin</a></p>
+        <p>Github: <a href="vcvc.com">github.com/uttam.pal</a></p>
+    </div>
+    <div>
+        <!-- Use a web-accessible URL for the image -->
+        <img src="https://example.com/path/to/download.jpeg" alt="Uttam Pal">
+        <p>I am a passionate software engineer with expertise in problem-solving and algorithmic thinking. I love to explore various technologies and frameworks to develop efficient and scalable solutions. With a strong foundation in data structures and algorithms, I strive to create robust and optimized code. I am constantly expanding my skills and staying up-to-date with the latest advancements in the field of software development.</p>
+    </div>
+    <div>
+        <h3>Education</h3>
+        <ul>
+            <li>Graduation from Adamas University</li>
+        </ul>
+        <h3>Work experience</h3>
+        <h4>Software Engineer</h4>
+        <p>Nov 2023 - Feb 2024</p>
+        <ul>
+            <li>Developed and maintained web applications using HTML, CSS, JavaScript</li>
+            <li>Optimized code performance</li>
+        </ul>
+        <h4>Software Development Engineer</h4>
+        <p>Jan 2024 - Feb 2024</p>
+        <ul>
+            <li>Assisted in developing and testing software modules</li>
+            <li>Worked on bug fixing</li>
+        </ul>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JAVASCRIPT</li>
+            <li>PYTHON</li>
+            <li>C++</li>
+            <li>SQL</li>
+        </ul>
+    </div>
+</body>
+</html>
